@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="quick_settings_bluetooth_multi_label">
+        <item quantity="other">%1$d устройств</item>
+        <item quantity="one">%1$d устройство</item>
+        <item quantity="few">%1$d устройства</item>
+    </plurals>
+    <plurals name="status_bar_accessibility_recent_apps">
+        <item quantity="other">Недавних приложений: %d</item>
+        <item quantity="one">Недавних приложений: 1</item>
+    </plurals>
+</resources>

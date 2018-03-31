@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cardinal_directions">
+        <item>צפון</item>
+        <item>צפון מזרח</item>
+        <item>מזרח</item>
+        <item>דרום מזרח</item>
+        <item>דרום</item>
+        <item>דרום מערב</item>
+        <item>מערב</item>
+        <item>צפון מערב</item>
+    </string-array>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="quick_settings_bluetooth_multi_label">
+        <item quantity="other">Povezanih %1$d</item>
+        <item quantity="one">Povezana %1$d</item>
+        <item quantity="two">Povezani %1$d</item>
+        <item quantity="few">Povezane %1$d</item>
+    </plurals>
+    <plurals name="status_bar_accessibility_recent_apps">
+        <item quantity="other">Nedavni programi v %d</item>
+        <item quantity="one">1 nedavni program</item>
+    </plurals>
+</resources>

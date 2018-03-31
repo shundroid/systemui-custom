@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="quick_settings_bluetooth_multi_label">
+        <item quantity="other">%1$d coneutaos</item>
+        <item quantity="one">%1$d coneutáu</item>
+    </plurals>
+    <plurals name="status_bar_accessibility_recent_apps">
+        <item quantity="other">%d aplicaciones recientes</item>
+        <item quantity="one">1 aplicación reciente</item>
+    </plurals>
+</resources>

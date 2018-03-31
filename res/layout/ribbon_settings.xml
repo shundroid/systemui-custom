@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.systemui.statusbar.phone.QuickSettingsHorizontalScrollView android:scrollbars="none" android:fadingEdgeLength="30.0dip" android:layout_width="fill_parent" android:layout_height="@dimen/qs_ribbon_height_big" android:requiresFadingEdge="horizontal"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:systemui="http://schemas.android.com/apk/res/com.android.systemui">
+    <com.android.systemui.statusbar.phone.QuickSettingsContainerView android:id="@id/quick_settings_ribbon_container" android:layout_width="fill_parent" android:layout_height="fill_parent" android:animateLayoutChanges="true" systemui:singleRow="true" />
+</com.android.systemui.statusbar.phone.QuickSettingsHorizontalScrollView>

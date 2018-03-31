@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="navbar_search_targets">
+        <item>@null</item>
+        <item>@android:drawable/edit_text_holo_dark</item>
+        <item>@null</item>
+        <item>@null</item>
+    </array>
+    <array name="navbar_search_target_descriptions">
+        <item>@null</item>
+        <item>@android:string/use_a_different_app</item>
+        <item>@null</item>
+        <item>@null</item>
+    </array>
+    <array name="navbar_search_direction_descriptions">
+        <item>@null</item>
+        <item>@android:string/usb_mtp_launch_notification_description</item>
+        <item>@null</item>
+        <item>@null</item>
+    </array>
+    <integer-array name="batterymeter_color_levels">
+        <item>4</item>
+        <item>15</item>
+        <item>100</item>
+    </integer-array>
+    <array name="batterymeter_color_values">
+        <item>@color/batterymeter_critical</item>
+        <item>@color/batterymeter_low</item>
+        <item>@color/batterymeter_full</item>
+    </array>
+    <integer-array name="batterymeter_bolt_points">
+        <item>73</item>
+        <item>0</item>
+        <item>392</item>
+        <item>0</item>
+        <item>201</item>
+        <item>259</item>
+        <item>442</item>
+        <item>259</item>
+        <item>4</item>
+        <item>703</item>
+        <item>157</item>
+        <item>334</item>
+        <item>0</item>
+        <item>334</item>
+    </integer-array>
+    <array name="perf_profile_drawables">
+        <item>@drawable/ic_qs_perf_profile_pwrsv</item>
+        <item>@drawable/ic_qs_perf_profile_bal</item>
+        <item>@drawable/ic_qs_perf_profile_perf</item>
+    </array>
+    <integer-array name="batterymeter_inverted_bolt_points">
+        <item>743</item>
+        <item>73</item>
+        <item>743</item>
+        <item>292</item>
+        <item>442</item>
+        <item>201</item>
+        <item>442</item>
+        <item>400</item>
+        <item>0</item>
+        <item>20</item>
+        <item>369</item>
+        <item>157</item>
+        <item>369</item>
+        <item>0</item>
+    </integer-array>
+    <integer-array name="dockbatterymeter_bold_points">
+        <item>129</item>
+        <item>0</item>
+        <item>199</item>
+        <item>0</item>
+        <item>199</item>
+        <item>168</item>
+        <item>240</item>
+        <item>168</item>
+        <item>240</item>
+        <item>0</item>
+        <item>312</item>
+        <item>0</item>
+        <item>312</item>
+        <item>168</item>
+        <item>441</item>
+        <item>168</item>
+        <item>441</item>
+        <item>252</item>
+        <item>312</item>
+        <item>400</item>
+        <item>286</item>
+        <item>400</item>
+        <item>286</item>
+        <item>702</item>
+        <item>157</item>
+        <item>702</item>
+        <item>154</item>
+        <item>400</item>
+        <item>129</item>
+        <item>400</item>
+        <item>0</item>
+        <item>251</item>
+        <item>0</item>
+        <item>168</item>
+        <item>129</item>
+        <item>168</item>
+    </integer-array>
+    <integer-array name="dockbatterymeter_inverted_bold_points">
+        <item>0</item>
+        <item>154</item>
+        <item>302</item>
+        <item>154</item>
+        <item>302</item>
+        <item>129</item>
+        <item>451</item>
+        <item>0</item>
+        <item>534</item>
+        <item>0</item>
+        <item>534</item>
+        <item>129</item>
+        <item>702</item>
+        <item>129</item>
+        <item>702</item>
+        <item>199</item>
+        <item>534</item>
+        <item>199</item>
+        <item>534</item>
+        <item>265</item>
+        <item>702</item>
+        <item>265</item>
+        <item>702</item>
+        <item>312</item>
+        <item>534</item>
+        <item>312</item>
+        <item>534</item>
+        <item>441</item>
+        <item>451</item>
+        <item>441</item>
+        <item>302</item>
+        <item>312</item>
+        <item>302</item>
+        <item>286</item>
+        <item>0</item>
+        <item>286</item>
+    </integer-array>
+    <string-array name="cardinal_directions">
+        <item>N</item>
+        <item>NE</item>
+        <item>E</item>
+        <item>SE</item>
+        <item>S</item>
+        <item>SW</item>
+        <item>W</item>
+        <item>NW</item>
+    </string-array>
+</resources>

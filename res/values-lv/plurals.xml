@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="quick_settings_bluetooth_multi_label">
+        <item quantity="other">%1$d pievienoti</item>
+        <item quantity="zero">%1$d pievienots</item>
+        <item quantity="one">%1$d pievienots</item>
+    </plurals>
+    <plurals name="status_bar_accessibility_recent_apps">
+        <item quantity="other">%d nesen izmantotās lietotnes</item>
+        <item quantity="one">1 nesen izmantotā lietotne</item>
+    </plurals>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_gravity="center" android:orientation="vertical" android:id="@id/icon_container" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ImageView android:layout_gravity="center|top" android:id="@id/image" android:layout_width="@dimen/qs_tile_icon_size" android:layout_height="@dimen/qs_tile_icon_size" android:layout_marginTop="@dimen/qs_tile_margin_above_icon" android:layout_marginBottom="@dimen/qs_tile_margin_below_icon" android:src="@drawable/ic_qs_camera" android:scaleType="centerInside" />
+        <TextView android:gravity="center|top" android:layout_gravity="center|top" android:id="@id/text" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/quick_settings_camera_label" style="@style/TextAppearance.QuickSettings.TileView" />
+    </LinearLayout>
+    <FrameLayout android:id="@id/camera_surface_holder" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ImageView android:id="@id/camera_surface_flash_overlay" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="#88ffffff" />
+    </FrameLayout>
+</RelativeLayout>

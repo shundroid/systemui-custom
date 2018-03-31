@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="quick_settings_bluetooth_multi_label">
+        <item quantity="other">Συνδέθηκαν %1$d</item>
+        <item quantity="one">Συνδέθηκε %1$d</item>
+    </plurals>
+    <plurals name="status_bar_accessibility_recent_apps">
+        <item quantity="other">%d πρόσφατες εφαρμογές</item>
+        <item quantity="one">1 πρόσφατη εφαρμογή</item>
+    </plurals>
+</resources>

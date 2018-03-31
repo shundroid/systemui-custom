@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cardinal_directions">
+        <item>උතුර</item>
+        <item>ඊශාන</item>
+        <item>නැගෙනහිර</item>
+        <item>ගිනිකොන</item>
+        <item>දකුණ</item>
+        <item>නිරිත</item>
+        <item>බටහිර</item>
+        <item>වයඹ</item>
+    </string-array>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.systemui.statusbar.SignalClusterTextView android:gravity="center" android:orientation="horizontal" android:id="@id/mobile_signal_text_combo" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginEnd="-3.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textAppearance="@style/TextAppearance.StatusBar.Signal" android:gravity="start|center" android:id="@id/mobile_signal_text" android:layout_width="wrap_content" android:layout_height="fill_parent" android:singleLine="true" android:layout_marginEnd="-3.0dip" />
+    <ImageView android:id="@id/mobile_signal_text_icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/stat_sys_signal_min" android:paddingEnd="2.0dip" android:layout_marginStart="1.0dip" />
+</com.android.systemui.statusbar.SignalClusterTextView>

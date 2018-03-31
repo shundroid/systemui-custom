@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="equalizer_divisions">3</integer>
+    <integer name="equalizer_db_fuzz_factor">1</integer>
+    <integer name="equalizer_db_fuzz">-5</integer>
+</resources>
